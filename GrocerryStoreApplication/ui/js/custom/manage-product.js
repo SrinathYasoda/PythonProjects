@@ -1,4 +1,4 @@
-var productModal =$("#productModal");
+var productModal = $("#productModal");
     $(function () {
 
         //JSON data by API call
